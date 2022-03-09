@@ -16,3 +16,18 @@ h3{
 p{
     text-align: justify;
 }
+
+button a{
+    text-decoration: none;
+    font-size: 30px;
+    color: #fff;
+    padding: 10px 30px;
+    display: block;
+}
+
+button{
+    border: none;
+    margin-top: 20px;
+    background-color: purple;
+    border-radius: 30px;
+}
